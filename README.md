@@ -1,0 +1,2 @@
+# Programming-Assignment-3-Support-Vector-Machines-SVMs-
+In this assignment I'm required to use support vector machines (SVMS) from the popular “scikit learn” python library, to implement a model that predicts some binary target (class) based on two features . I use both linear and Gaussian kernels to notice how a linear kernel is not an appropriate choice when dealing with data that is not linearly separable.
